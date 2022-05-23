@@ -1,5 +1,5 @@
 {
-  "name": "react-dnd-scrolling",
+  "name": "@georgegilliland/react-dnd-scrolling-import-fix",
   "version": "1.2.4",
   "description": "A cross browser solution to scrolling during drag and drop.",
   "main": "lib/index.js",
@@ -14,12 +14,13 @@
     "publish:minor": "npm version minor && npm publish",
     "publish:patch": "npm version patch && npm publish"
   },
+  "registry": "https://registry.npmjs.org/@georgegilliland",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TechStark/react-dnd-scrolling"
+    "url": "git+https://github.com/georgegilliland/react-dnd-scrolling-import-fix"
   },
   "bugs": {
-    "url": "http://github.com/TechStark/react-dnd-scrolling/issues"
+    "url": "http://github.com/georgegilliland/react-dnd-scrolling-import-fix/issues"
   },
   "keywords": [
     "react",
